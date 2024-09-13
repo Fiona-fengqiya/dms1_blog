@@ -1,10 +1,12 @@
 ---
-title: This is a blog post!
-published_at: 2022-11-04
-snippet: An example of a blog post.
+title: Week 7 Session 2
+published_at: 2024-09-13
+snippet: Making a terrain in Unity.
 disable_html_sanitization: true
 allow_math: true
 ---
+
+🤓🤓🤓
 
 # This is h1
 
